@@ -2,7 +2,7 @@
 
 meu nome e ryan felix
 
-to estudando na alura;
+to estudando na [Alura](hhttps://www.alura.com.br
 
 
 
@@ -11,6 +11,5 @@ to estudando na alura;
 00001132226168sp@al.educacao.sp.gov.br
 
 
-
-
-![](https://tenor.com/pt-BR/view/deltarune-kromer-spamton-gif-23153813)
+![](https://media1.tenor.com/m/ZEvnyfQea3MAAAAd/cat-money.gif)
+/
